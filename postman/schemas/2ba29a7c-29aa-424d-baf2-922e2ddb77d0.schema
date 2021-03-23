@@ -1,7 +1,7 @@
-openapi: 3.0.0
+openapi: 3.12.4
 info:
   version: '1'
-  title: APIREPO@@@@2222
+  title: API<>Repo2
 servers:
   - url: 'http://localhost:3000'
 paths:
